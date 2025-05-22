@@ -1,0 +1,6 @@
+@BalonismoAPI_HostAddress = http://localhost:5250
+
+GET {{BalonismoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
